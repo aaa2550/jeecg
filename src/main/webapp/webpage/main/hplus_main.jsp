@@ -222,7 +222,8 @@
 		</style> 
         <div class="row J_mainContent" id="content-main" style="margin-left:-13px;">
             <div class="proccess" id="panelloadingDiv"><b>&nbsp;</b></div> 
-            <iframe class="J_iframe" name="iframe0" width="100%" height="100%" src="loginController.do?hplushome" frameborder="0" data-id="loginController.do?hplushome" seamless></iframe>
+            <%--<iframe class="J_iframe" name="iframe0" width="100%" height="100%" src="loginController.do?hplushome" frameborder="0" data-id="loginController.do?hplushome" seamless></iframe>--%>
+            <iframe class="J_iframe" name="iframe0" width="100%" height="100%" src="" frameborder="0" data-id="loginController.do?hplushome" seamless></iframe>
         </div>
         <!-- update-end--Author:zhoujf  Date:20170710 for：TASK #2003 【UI改进】列表加载慢的时候会出现白板  -->
         <!-- update-begin--Author:xuelin  Date:20170611 for：TASK #2100 【列表样式美化】【样式专题】Jeecg平台任务 --1下面这条线，变明朗点--------------------  -->
